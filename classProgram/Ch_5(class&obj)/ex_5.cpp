@@ -20,8 +20,13 @@ inline void student :: getdata()
     cin>>phone;
 }
 inline void student :: showdata()
+
 {
     cout<<"Name: "<<name<<endl;
     cout<<"Roll No: "<<roll<<endl;
     cout<<"Phone No: "<<phone<<endl;
+}
+int main(){
+    
+
 }

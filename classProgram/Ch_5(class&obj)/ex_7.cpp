@@ -15,7 +15,6 @@ class Complex
         cout<<"Enter Imaginary part :";
         cin>>imag;
     }
-
     void showvalue()
     {
         cout<<"("<<real<<","<<imag<<")";
