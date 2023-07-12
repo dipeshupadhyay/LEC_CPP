@@ -9,9 +9,6 @@ class calculator{
     {
         return a+b;
     }
-    float add(int a, int b){
-        return a+b;
-    }
 };
 int main(){
     calculator calc1;
